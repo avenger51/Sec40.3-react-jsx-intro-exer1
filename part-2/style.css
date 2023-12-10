@@ -1,0 +1,10 @@
+.tweet-container {
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    margin-bottom: 15px; 
+    border-radius: 8px; 
+    background-color: #f80e0e; /* Light background for the tweet */
+    max-width: 400px; 
+    margin: 10px auto; 
+   
+  }
